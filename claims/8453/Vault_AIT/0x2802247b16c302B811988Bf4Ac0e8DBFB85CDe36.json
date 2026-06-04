@@ -1,0 +1,16 @@
+{
+  "amounts": [
+    "32959223890302026"
+  ],
+  "proof": [
+    [
+      "0xdd1bfcd3ae525a145bcb4d15cdcdd0e0dad539b1d9b13895d7b11f8f75e165a5",
+      "0x385c87177b7116ea86e0e2933600b6c9c2d984fedf3ec25fa2f82846db47d175",
+      "0xe87a5abcca5acba183c5a8a86a3f5cfdbec113dfcfdc11570c9889bb2984f4d9",
+      "0x7b526faa0e16d72f2ed4b0544a1230fff389dc8e786bb31d741c5503f213b44f"
+    ]
+  ],
+  "id": [
+    "0"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "amounts": [
+    "57506281071744364670"
+  ],
+  "proof": [
+    [
+      "0xd8200c1f39d1bd108742fc0db56485659031c95f187f545756fcfba634055b8b",
+      "0xef2f44c052eab0b40ec06fdfadb8cd3a6a935e6f959613d7b3183c505366a672",
+      "0x6d649d15f08f856a8e02e6c7db94dc8791d1b932bb30491b6fe582d0f83e5c5e",
+      "0x7b526faa0e16d72f2ed4b0544a1230fff389dc8e786bb31d741c5503f213b44f"
+    ]
+  ],
+  "id": [
+    "0"
+  ]
+}
