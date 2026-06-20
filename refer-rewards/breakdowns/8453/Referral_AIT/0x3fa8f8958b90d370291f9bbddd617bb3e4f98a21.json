@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "description": "Partner-attribution breakdown for 0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21 in claims/8453/Referral_AIT. Σ breakdowns[i][*].amount equals amounts[i] in the sibling claims file.",
+    "wallet": "0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21",
+    "rewardToken": "AIT",
+    "decimals": 18,
+    "source": "generate-reward",
+    "generatedAt": "2026-06-20T04:16:23.016Z"
+  },
+  "id": [
+    "0"
+  ],
+  "breakdowns": [
+    [
+      {
+        "partner": "hyperliquid",
+        "metric": "fees",
+        "value": "0.000474",
+        "amount": "176061840474494",
+        "source": "manual"
+      }
+    ]
+  ]
+}

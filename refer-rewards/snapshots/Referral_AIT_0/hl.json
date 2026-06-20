@@ -1,0 +1,71 @@
+{
+  "partner": {
+    "address": "0xb254bd355151dd2289bb835c75e81acdbd6bd973",
+    "referralCode": "MAXSHOT",
+    "stage": "ready",
+    "totalReferees": 8,
+    "totalVolume": "253734.93",
+    "totalRewardsEarned": "8.912692",
+    "unclaimedRewards": "0.0",
+    "claimedRewards": "8.91269307"
+  },
+  "referees": [
+    {
+      "address": "0x56e54dc17e533530e88aefcde39750336fc2ae39",
+      "volume": "242622.95",
+      "rewardedFeesSinceReferred": "85.96127492",
+      "feesRewardedToReferrer": "8.59604478",
+      "joinedAt": "2026-05-19T09:24:20.583Z"
+    },
+    {
+      "address": "0x69c1a51711b061e5935c648beb16e349898b17df",
+      "volume": "10808.01",
+      "rewardedFeesSinceReferred": "3.13738502",
+      "feesRewardedToReferrer": "0.31373729",
+      "joinedAt": "2026-05-06T15:49:14.161Z"
+    },
+    {
+      "address": "0x7e074a9af785eda9b212139a85fff24ae9f5a09d",
+      "volume": "21.57",
+      "rewardedFeesSinceReferred": "0.009324",
+      "feesRewardedToReferrer": "0.000931",
+      "joinedAt": "2026-05-26T14:59:48.132Z"
+    },
+    {
+      "address": "0x0bffbb8ccb21727793944ec69134e4d5daeda7c4",
+      "volume": "21.26",
+      "rewardedFeesSinceReferred": "0.009186",
+      "feesRewardedToReferrer": "0.000918",
+      "joinedAt": "2026-05-22T08:33:57.843Z"
+    },
+    {
+      "address": "0x2fb024494fe416f26bcfa0e3dd93007122e6d079",
+      "volume": "13.63",
+      "rewardedFeesSinceReferred": "0.005888",
+      "feesRewardedToReferrer": "0.000588",
+      "joinedAt": "2026-05-22T14:59:28.397Z"
+    },
+    {
+      "address": "0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21",
+      "volume": "10.97",
+      "rewardedFeesSinceReferred": "0.004743",
+      "feesRewardedToReferrer": "0.000474",
+      "joinedAt": "2026-05-18T02:50:33.665Z"
+    },
+    {
+      "address": "0x2802247b16c302b811988bf4ac0e8dbfb85cde36",
+      "volume": "0.0",
+      "rewardedFeesSinceReferred": "0.0",
+      "feesRewardedToReferrer": "0.0",
+      "joinedAt": "2026-05-29T10:26:09.316Z"
+    },
+    {
+      "address": "0xce4c3e4abb8a3bc23b828327c363e1dcc748d6a5",
+      "volume": "236.54",
+      "rewardedFeesSinceReferred": "0.0",
+      "feesRewardedToReferrer": "0.0",
+      "joinedAt": "2026-05-06T15:37:02.823Z"
+    }
+  ],
+  "asOfTimestamp": "2026-06-20T04:16:22.994Z"
+}
