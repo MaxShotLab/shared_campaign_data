@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "description": "Partner-attribution breakdown for 0x2596ad31cb529925b3b9cc28b3fb22575f34df3a in claims/8453/Referral_AIT. Σ breakdowns[i][*].amount equals amounts[i] in the sibling claims file.",
+    "wallet": "0x2596ad31cb529925b3b9cc28b3fb22575f34df3a",
+    "rewardToken": "AIT",
+    "decimals": 18,
+    "source": "generate-reward",
+    "generatedAt": "2026-06-20T04:16:23.016Z",
+    "regeneratedAt": "2026-06-22T04:06:09.862Z",
+    "totalPool": "38 AIT"
+  },
+  "id": [
+    "0"
+  ],
+  "breakdowns": [
+    [
+      {
+        "partner": "polymarket-referral",
+        "metric": "earnings",
+        "value": "0.018900",
+        "amount": "19054794127302898",
+        "source": "manual"
+      }
+    ]
+  ]
+}
