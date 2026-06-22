@@ -1,6 +1,6 @@
 {
   "summary": {
-    "totalAmount": "14000000000000000000",
+    "totalAmount": "38000000000000000000",
     "totalRecipients": 9,
     "totalContribUsdc6": "37691302",
     "hlContribUsdc6": "8912692",
@@ -11,56 +11,56 @@
   "csv": [
     {
       "address": "0x0bffbb8ccb21727793944ec69134e4d5daeda7c4",
-      "amount": "23942181673639186"
+      "amount": "64985921685592076"
     },
     {
       "address": "0x2596ad31cb529925b3b9cc28b3fb22575f34df3a",
-      "amount": "7020187310058962"
+      "amount": "19054794127302898"
     },
     {
       "address": "0x2fb024494fe416f26bcfa0e3dd93007122e6d079",
-      "amount": "218405827424056"
+      "amount": "592815817293867"
     },
     {
       "address": "0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21",
-      "amount": "176061840474494"
+      "amount": "477882138430771"
     },
     {
       "address": "0x56e54dc17e533530e88aefcde39750336fc2ae39",
-      "amount": "3192901534682988664"
+      "amount": "8666447022710969231"
     },
     {
       "address": "0x69c1a51711b061e5935c648beb16e349898b17df",
-      "amount": "116533995031532739"
+      "amount": "316306557942731720"
     },
     {
       "address": "0x6fd8b7fcd7efcc5757145ae99c718f38d4e683fa",
-      "amount": "5517797023833244076"
+      "amount": "14976877636118805345"
     },
     {
       "address": "0x7e074a9af785eda9b212139a85fff24ae9f5a09d",
-      "amount": "345809226754756"
+      "amount": "938625044048624"
     },
     {
       "address": "0xe44caa303292d047c7a3fbee47492d68d0dfbd7d",
-      "amount": "5141064800573883067"
+      "amount": "13954318744414825468"
     }
   ],
-  "csvText": "0x0bffbb8ccb21727793944ec69134e4d5daeda7c4,23942181673639186\n0x2596ad31cb529925b3b9cc28b3fb22575f34df3a,7020187310058962\n0x2fb024494fe416f26bcfa0e3dd93007122e6d079,218405827424056\n0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21,176061840474494\n0x56e54dc17e533530e88aefcde39750336fc2ae39,3192901534682988664\n0x69c1a51711b061e5935c648beb16e349898b17df,116533995031532739\n0x6fd8b7fcd7efcc5757145ae99c718f38d4e683fa,5517797023833244076\n0x7e074a9af785eda9b212139a85fff24ae9f5a09d,345809226754756\n0xe44caa303292d047c7a3fbee47492d68d0dfbd7d,5141064800573883067\n",
+  "csvText": "0x0bffbb8ccb21727793944ec69134e4d5daeda7c4,64985921685592076\n0x2596ad31cb529925b3b9cc28b3fb22575f34df3a,19054794127302898\n0x2fb024494fe416f26bcfa0e3dd93007122e6d079,592815817293867\n0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21,477882138430771\n0x56e54dc17e533530e88aefcde39750336fc2ae39,8666447022710969231\n0x69c1a51711b061e5935c648beb16e349898b17df,316306557942731720\n0x6fd8b7fcd7efcc5757145ae99c718f38d4e683fa,14976877636118805345\n0x7e074a9af785eda9b212139a85fff24ae9f5a09d,938625044048624\n0xe44caa303292d047c7a3fbee47492d68d0dfbd7d,13954318744414825468\n",
   "breakdowns": {
     "0x0bffbb8ccb21727793944ec69134e4d5daeda7c4": [
       {
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.000918",
-        "amount": "340980526488578",
+        "amount": "925518571897569",
         "source": "manual"
       },
       {
         "partner": "polymarket-referral",
         "metric": "earnings",
         "value": "0.063540",
-        "amount": "23601201147150608",
+        "amount": "64060403113694507",
         "source": "manual"
       }
     ],
@@ -69,7 +69,7 @@
         "partner": "polymarket-referral",
         "metric": "earnings",
         "value": "0.018900",
-        "amount": "7020187310058962",
+        "amount": "19054794127302898",
         "source": "manual"
       }
     ],
@@ -78,7 +78,7 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.000588",
-        "amount": "218405827424056",
+        "amount": "592815817293867",
         "source": "manual"
       }
     ],
@@ -87,7 +87,7 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.000474",
-        "amount": "176061840474494",
+        "amount": "477882138430771",
         "source": "manual"
       }
     ],
@@ -96,7 +96,7 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "8.596044",
-        "amount": "3192901534682988664",
+        "amount": "8666447022710969231",
         "source": "manual"
       }
     ],
@@ -105,7 +105,7 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.313737",
-        "amount": "116533995031532739",
+        "amount": "316306557942731720",
         "source": "manual"
       }
     ],
@@ -114,7 +114,7 @@
         "partner": "polymarket-referral",
         "metric": "earnings",
         "value": "14.855211",
-        "amount": "5517797023833244076",
+        "amount": "14976877636118805345",
         "source": "manual"
       }
     ],
@@ -123,7 +123,7 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.000931",
-        "amount": "345809226754756",
+        "amount": "938625044048624",
         "source": "manual"
       }
     ],
@@ -132,7 +132,7 @@
         "partner": "polymarket-referral",
         "metric": "earnings",
         "value": "13.840959",
-        "amount": "5141064800573883067",
+        "amount": "13954318744414825468",
         "source": "manual"
       }
     ]

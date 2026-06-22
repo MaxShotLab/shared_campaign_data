@@ -5,7 +5,9 @@
     "rewardToken": "AIT",
     "decimals": 18,
     "source": "generate-reward",
-    "generatedAt": "2026-06-20T04:16:23.017Z"
+    "generatedAt": "2026-06-20T04:16:23.017Z",
+    "regeneratedAt": "2026-06-22T04:06:09.863Z",
+    "totalPool": "38 AIT"
   },
   "id": [
     "0"
@@ -16,7 +18,7 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.000931",
-        "amount": "345809226754756",
+        "amount": "938625044048624",
         "source": "manual"
       }
     ]

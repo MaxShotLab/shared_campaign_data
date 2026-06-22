@@ -5,7 +5,9 @@
     "rewardToken": "AIT",
     "decimals": 18,
     "source": "generate-reward",
-    "generatedAt": "2026-06-20T04:16:23.017Z"
+    "generatedAt": "2026-06-20T04:16:23.017Z",
+    "regeneratedAt": "2026-06-22T04:06:09.863Z",
+    "totalPool": "38 AIT"
   },
   "id": [
     "0"
@@ -16,7 +18,7 @@
         "partner": "polymarket-referral",
         "metric": "earnings",
         "value": "13.840959",
-        "amount": "5141064800573883067",
+        "amount": "13954318744414825468",
         "source": "manual"
       }
     ]

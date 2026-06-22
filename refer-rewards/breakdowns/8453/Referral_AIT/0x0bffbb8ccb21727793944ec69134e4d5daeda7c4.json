@@ -5,7 +5,9 @@
     "rewardToken": "AIT",
     "decimals": 18,
     "source": "generate-reward",
-    "generatedAt": "2026-06-20T04:16:23.012Z"
+    "generatedAt": "2026-06-20T04:16:23.012Z",
+    "regeneratedAt": "2026-06-22T04:06:09.861Z",
+    "totalPool": "38 AIT"
   },
   "id": [
     "0"
@@ -16,14 +18,14 @@
         "partner": "hyperliquid",
         "metric": "fees",
         "value": "0.000918",
-        "amount": "340980526488578",
+        "amount": "925518571897569",
         "source": "manual"
       },
       {
         "partner": "polymarket-referral",
         "metric": "earnings",
         "value": "0.063540",
-        "amount": "23601201147150608",
+        "amount": "64060403113694507",
         "source": "manual"
       }
     ]
