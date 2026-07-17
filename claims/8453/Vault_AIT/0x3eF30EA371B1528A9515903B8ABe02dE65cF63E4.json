@@ -2,7 +2,8 @@
   "amounts": [
     "5931571682484816",
     "164077248085887",
-    "97305110930204"
+    "97305110930204",
+    "130075835646710"
   ],
   "proof": [
     [
@@ -24,11 +25,18 @@
       "0x6329570698953ee91eaae891c7422598f9c4708b713ab65d54f08521f4c467ed",
       "0x1f29d646c3cba7bea5abb486b8f172bd19c9e3e8412c6a94bcecbd1ff59dcee1",
       "0x7d3d38dcb3cca08bd5263dc7711f8a54b5df3fcf68a8639f91f3b8e799f95435"
+    ],
+    [
+      "0xc24cddaaefe5cd61deb4afee4c7e99d146ec9b2e69d572ed1f9e6e6fb98b61de",
+      "0xb0003e3537cf98febcc4478b88058b9eb3e95973bbd54290943c542170a5eb80",
+      "0xb87180fa52226f8f50d9f35c4547eb913c3c64f8edd41caa2eeff6303eafa11d",
+      "0x575030c43a90c14d3a4efeb74b51745c3d1bf8cce9de3871f3555557f5a6d524"
     ]
   ],
   "id": [
     "0",
     "1",
-    "2"
+    "2",
+    "3"
   ]
 }
