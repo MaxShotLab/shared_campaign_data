@@ -1,0 +1,268 @@
+{
+  "summary": {
+    "totalAmount": "0",
+    "totalRecipients": 0,
+    "totalContribUsdc6": "0",
+    "hlContribUsdc6": "0",
+    "pmrContribUsdc6": "0",
+    "skipped": [],
+    "asOfTimestamp": "2026-07-17T02:18:58.519Z"
+  },
+  "csv": [],
+  "csvText": "",
+  "breakdowns": {},
+  "snapshots": {
+    "hl": {
+      "partner": {
+        "address": "0xb254bd355151dd2289bb835c75e81acdbd6bd973",
+        "referralCode": "MAXSHOT",
+        "stage": "ready",
+        "totalReferees": 9,
+        "totalVolume": "253734.93",
+        "totalRewardsEarned": "8.912692",
+        "unclaimedRewards": "0.0",
+        "claimedRewards": "8.91269307"
+      },
+      "referees": [
+        {
+          "address": "0x56e54dc17e533530e88aefcde39750336fc2ae39",
+          "volume": "242622.95",
+          "rewardedFeesSinceReferred": "85.96127492",
+          "feesRewardedToReferrer": "8.59604478",
+          "joinedAt": "2026-05-19T09:24:20.583Z"
+        },
+        {
+          "address": "0x69c1a51711b061e5935c648beb16e349898b17df",
+          "volume": "10808.01",
+          "rewardedFeesSinceReferred": "3.13738502",
+          "feesRewardedToReferrer": "0.31373729",
+          "joinedAt": "2026-05-06T15:49:14.161Z"
+        },
+        {
+          "address": "0x7e074a9af785eda9b212139a85fff24ae9f5a09d",
+          "volume": "21.57",
+          "rewardedFeesSinceReferred": "0.009324",
+          "feesRewardedToReferrer": "0.000931",
+          "joinedAt": "2026-05-26T14:59:48.132Z"
+        },
+        {
+          "address": "0x0bffbb8ccb21727793944ec69134e4d5daeda7c4",
+          "volume": "21.26",
+          "rewardedFeesSinceReferred": "0.009186",
+          "feesRewardedToReferrer": "0.000918",
+          "joinedAt": "2026-05-22T08:33:57.843Z"
+        },
+        {
+          "address": "0x2fb024494fe416f26bcfa0e3dd93007122e6d079",
+          "volume": "13.63",
+          "rewardedFeesSinceReferred": "0.005888",
+          "feesRewardedToReferrer": "0.000588",
+          "joinedAt": "2026-05-22T14:59:28.397Z"
+        },
+        {
+          "address": "0x3fa8f8958b90d370291f9bbddd617bb3e4f98a21",
+          "volume": "10.97",
+          "rewardedFeesSinceReferred": "0.004743",
+          "feesRewardedToReferrer": "0.000474",
+          "joinedAt": "2026-05-18T02:50:33.665Z"
+        },
+        {
+          "address": "0x2802247b16c302b811988bf4ac0e8dbfb85cde36",
+          "volume": "0.0",
+          "rewardedFeesSinceReferred": "0.0",
+          "feesRewardedToReferrer": "0.0",
+          "joinedAt": "2026-05-29T10:26:09.316Z"
+        },
+        {
+          "address": "0xad0294ecea33469e783230b49b8df53bbc43d908",
+          "volume": "0.0",
+          "rewardedFeesSinceReferred": "0.0",
+          "feesRewardedToReferrer": "0.0",
+          "joinedAt": "2026-06-22T09:46:21.936Z"
+        },
+        {
+          "address": "0xce4c3e4abb8a3bc23b828327c363e1dcc748d6a5",
+          "volume": "236.54",
+          "rewardedFeesSinceReferred": "0.0",
+          "feesRewardedToReferrer": "0.0",
+          "joinedAt": "2026-05-06T15:37:02.823Z"
+        }
+      ],
+      "asOfTimestamp": "2026-07-17T02:18:58.388Z"
+    },
+    "pm": {
+      "partner": {
+        "address": "0xa5f64aeebe61ea472beca25380bd97c9c106e152",
+        "totalSignups": 21,
+        "totalEarnings": 28.78,
+        "activeTraders": 4,
+        "isActive": true,
+        "isReferralRestricted": false,
+        "isReferralWhitelisted": false
+      },
+      "users": [
+        {
+          "proxyWallet": "0xe7a066fcf64c5c481cae428ee23278c61b05c895",
+          "name": "account68",
+          "pseudonym": "Artistic-Division",
+          "createdAt": "2026-06-23T09:04:29Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x05eb9f79c065803d9b9a0e1b464f9661215c1148",
+          "name": "FiveDay",
+          "pseudonym": "Anguished-Flanker-Demur",
+          "createdAt": "2026-06-15T09:38:11Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x50173caeaaa6e8e861c50388aa23d9e1255a2216",
+          "name": "account6767",
+          "pseudonym": "Thorough-Pension",
+          "createdAt": "2026-06-15T09:30:53Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xf6eaf69590a2dc364eab6f540eeacfa5ff0fafbc",
+          "name": "maxshottuto",
+          "pseudonym": "Pink-Millet",
+          "createdAt": "2026-06-02T15:00:45Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x110f9fed8a647455c6a14d231446da7e27bc436a",
+          "name": "maxshottutorial",
+          "pseudonym": "Substantial-Step-Gigantism",
+          "createdAt": "2026-06-02T14:58:06Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x2d7c7d7e42b540ac6ce7aead3a17ba972cd08f0d",
+          "name": "account64",
+          "pseudonym": "Ideal-Solution",
+          "createdAt": "2026-05-30T15:40:48Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xb4bf3cdf19914f0a354177925536124f8d349a3d",
+          "name": "account61",
+          "pseudonym": "Frigid-Manufacturer",
+          "createdAt": "2026-05-29T11:21:55Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xaeb1a0617570821709c3c7801a36d3d45062bb78",
+          "name": "account60",
+          "pseudonym": "Considerate-Gymnast",
+          "createdAt": "2026-05-29T11:05:41Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x413e325d048a6a3e59a80bbe550abce28b94fa3b",
+          "name": "yufall528email",
+          "pseudonym": "Important-Devil",
+          "createdAt": "2026-05-28T08:08:36Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xcfcbe189a5deed1f3daa4fd4032280fdd0185fcc",
+          "name": "account59",
+          "pseudonym": "Hoarse-Tenor",
+          "createdAt": "2026-05-27T14:13:13Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xf325480f0afc94ddca3a2f6d8eaa910ec638d5b7",
+          "name": "account57",
+          "pseudonym": "Anguished-Embryo",
+          "createdAt": "2026-05-26T14:28:30Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xdd134b6f42ee56931462a289c2bb3099e55cb427",
+          "name": "account5858",
+          "pseudonym": "Glittering-Friend",
+          "createdAt": "2026-05-26T14:24:42Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xba9fd21a7f90d761479cbc5057ceef9a26591d2f",
+          "name": "account56",
+          "pseudonym": "Nippy-Compliment-Twist",
+          "createdAt": "2026-05-26T10:52:13Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x6265214460d49ba091073405566da4781a3e5937",
+          "name": "lalalaf3",
+          "pseudonym": "Pointless-Nursing",
+          "createdAt": "2026-05-25T07:53:01Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xe35c397b1cd37fe43e1eda2e2f65e5de1cb445ad",
+          "name": "new163email",
+          "pseudonym": "Quintessential-Tool",
+          "createdAt": "2026-05-22T14:40:31Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0.0189
+        },
+        {
+          "proxyWallet": "0x1b09fa79aea8cb45e27df180898d0517618231ea",
+          "name": "account55",
+          "pseudonym": "Worthwhile-Larch",
+          "createdAt": "2026-05-22T08:10:08Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0.06354
+        },
+        {
+          "proxyWallet": "0x53b490922191cc583a03890dc5844e470e08cef0",
+          "name": "ragazzoingambling",
+          "pseudonym": "Crafty-Tolerant-Conservative",
+          "createdAt": "2026-05-20T07:56:45Z",
+          "campaign": "MaxshotAI",
+          "earnings": 14.855211
+        },
+        {
+          "proxyWallet": "0xa5d16f6bb95afa3d199e2bf184755d960f994b01",
+          "name": "AnFdw",
+          "pseudonym": "Wilted-Shape",
+          "createdAt": "2026-05-20T07:49:26Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0x6cbafa957a904b303c50f89ff8533555600d0d3a",
+          "name": "MaxshotBuilder",
+          "pseudonym": "Vague-Sleuth",
+          "createdAt": "2026-05-18T03:10:04Z",
+          "campaign": "MaxshotAI",
+          "earnings": 0
+        },
+        {
+          "proxyWallet": "0xb4e6f921d8a50285bf001a75852a8eea7c985874",
+          "name": "random9walker",
+          "pseudonym": "Neat-Waste",
+          "createdAt": "2026-04-25T09:09:35Z",
+          "campaign": "MaxshotAI",
+          "earnings": 13.840959
+        }
+      ],
+      "asOfTimestamp": "2026-07-17T02:18:58.518Z"
+    }
+  }
+}
