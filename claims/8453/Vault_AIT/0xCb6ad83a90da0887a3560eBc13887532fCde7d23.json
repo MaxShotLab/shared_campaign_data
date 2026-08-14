@@ -4,7 +4,8 @@
     "2767061470667",
     "1640990722231",
     "2193648730901",
-    "1371801337918"
+    "1371801337918",
+    "2584812662458"
   ],
   "proof": [
     [
@@ -40,6 +41,12 @@
       "0x3e6d31bd5815eb9a11e28e1c10bd5ec3650f6e6d384dcea3424f83fddfa2a5a0",
       "0xb517da78cf8c0df84233e203fd6a12e62703fb715f793f658c90c31033dcbddc",
       "0x3d9dc6013ff21ec5fe39335d3cb991592c2799bb0e37af319919f768177456ba"
+    ],
+    [
+      "0x9d9d181dd9b2d5bf6164ffd2da55f2afa2678c3e0ed8c57af26a6d7f960eacea",
+      "0xfb0b304a1be6760f3dc1df523f5f4ed63500b5ed06b42c854bfe90b9353a5a87",
+      "0xa02f5d07e4bf9c39c03d2f403ddb62970b7c67094aca6dbc6f235befb114a82e",
+      "0xbdcac7377ba90bbde8bbde5eecfbf8a4fce873d4523552528b13973c26b3481f"
     ]
   ],
   "id": [
@@ -47,6 +54,7 @@
     "1",
     "2",
     "3",
-    "4"
+    "4",
+    "5"
   ]
 }
